@@ -1,0 +1,369 @@
+,Overall,Team,Name,Nat.,Pos,Amateur Team,GP,G,A,PTS,+/-,NHL_PointsPG,CHL_GP,CHL_Points,CHL_PointsPG,CHL_EV_P1/GP,CHL_EV_P1/60,CHL_EV_RelGF%,CHL_Age_Dec31
+0,71,Colorado Avalanche,Josh Anderson,CA,D,Prince George (WHL),,,,,,,64,22,0.3438,0.2813,1.5506,6.63,18.65
+1,95,Columbus Blue Jackets,Josh Anderson,CA,RW,London (OHL),267.0,65.0,50.0,115.0,27.0,0.4307116104868914,64,22,0.3438,0.2813,1.5506,6.63,18.65
+2,92,Toronto Maple Leafs,Adam Brooks,CA,C,Regina (WHL),7.0,0.0,3.0,3.0,1.0,0.42857142857142855,60,11,0.1833,0.1333,0.7556,- 12.67,18.65
+3,113,Chicago Blackhawks,Nathan Noel,CA,C,Saint John (QMJHL),,,,,,,66,62,0.9394,0.3939,2.4202,2.14,18.53
+4,115,Anaheim Ducks,Alex Dostie,CA,C,Gatineau (QMJHL),,,,,,,68,54,0.7941,0.3824,2.09,- 0.61,18.72
+5,122,Toronto Maple Leafs,Vladimir Bobylev,RU,RW,Victoria (WHL),,,,,,,52,9,0.1731,0.1346,0.8147,1.21,18.7
+6,144,St. Louis Blues,Conner Bleackley,CA,C,Red Deer (WHL),,,,,,,71,68,0.9577,0.5211,2.9688,5.62,18.9
+7,23,Colorado Avalanche,Conner Bleackley,CA,C,Red Deer (WHL),,,,,,,71,68,0.9577,0.5211,2.9688,5.62,18.9
+8,154,Vancouver Canucks,Jakob Stukel,CA,LW,Calgary (WHL),,,,,,,49,16,0.3265,0.2857,1.3703,5.72,18.82
+9,171,New York Rangers,Gabriel Fontaine,CA,C,Rouyn-Noranda (QMJHL),,,,,,,55,19,0.3455,0.1636,0.8942,2.02,18.67
+10,198,Nashville Predators,Adam Smith,CA,D,Bowling Green (WCHA),,,,,,,20,0,0.0,0.0,0.0,- 50.59,18.46
+11,205,Anaheim Ducks,Tyler Soy,CA,C,Victoria (WHL),,,,,,,69,63,0.913,0.5217,3.0318,13.13,18.89
+12,1,Edmonton Oilers,Connor Mcdavid,CA,C,Erie (OHL),351.0,162.0,307.0,469.0,43.0,1.3361823361823362,47,120,2.5532,1.3617,6.0759,17.24,18.97
+13,3,Arizona Coyotes,Dylan Strome,CA,C,Erie (OHL),164.0,36.0,69.0,105.0,-8.0,0.6402439024390244,68,129,1.8971,0.9559,4.6623,11.17,18.82
+14,4,Toronto Maple Leafs,Mitchell Marner,CA,C,London (OHL),300.0,83.0,208.0,291.0,27.0,0.97,63,126,2.0,0.8413,4.7108,21.94,18.66
+15,6,New Jersey Devils,Pavel Zacha,CZ,C,Sarnia (OHL),266.0,37.0,71.0,108.0,-34.0,0.40601503759398494,37,34,0.9189,0.4054,2.9443,7.44,18.74
+16,9,San Jose Sharks,Timo Meier,CH,RW,Halifax (QMJHL),263.0,76.0,81.0,157.0,-10.0,0.596958174904943,61,90,1.4754,0.5738,2.9954,19.14,19.23
+17,11,Florida Panthers,Lawson Crouse,CA,LW,Kingston (OHL),230.0,32.0,31.0,63.0,-21.0,0.27391304347826084,56,51,0.9107,0.4643,2.0682,5.56,18.52
+18,14,Boston Bruins,Jake Debrusk,CA,LW,Swift Current (WHL),203.0,62.0,58.0,120.0,14.0,0.5911330049261084,72,81,1.125,0.6111,2.915,5.99,19.21
+19,16,New York Islanders,Mathew Barzal,CA,C,Seattle (WHL),234.0,59.0,148.0,207.0,-1.0,0.8846153846153846,44,57,1.2955,0.5909,2.8042,10.00,18.6
+20,24,Philadelphia Flyers,Travis Konecny,CA,C,Ottawa (OHL),299.0,83.0,102.0,185.0,10.0,0.6187290969899666,60,68,1.1333,0.6667,2.9043,5.16,18.81
+21,28,New York Islanders,Anthony Beauvillier,CA,LW,Shawinigan (QMJHL),286.0,66.0,61.0,127.0,-7.0,0.44405594405594406,67,94,1.403,0.5672,3.3439,2.46,18.56
+22,33,Tampa Bay Lightning,Mitchell Stephens,CA,C,Saginaw (OHL),38.0,3.0,3.0,6.0,-9.0,0.15789473684210525,62,48,0.7742,0.4032,2.1992,0.47,18.91
+23,36,Ottawa Senators,Gabriel Gagne,CA,RW,Victoriaville (QMJHL),,,,,,,67,59,0.8806,0.5224,2.1118,7.32,19.14
+24,38,Columbus Blue Jackets,Paul Bittner,US,LW,Portland (WHL),,,,,,,66,71,1.0758,0.6364,3.1172,13.24,19.16
+25,41,New York Rangers,Ryan Gropp,CA,LW,Seattle (WHL),,,,,,,67,58,0.8657,0.5373,2.4632,1.90,19.29
+26,46,Pittsburgh Penguins,Daniel Sprong,NL,RW,Charlottetown (QMJHL),97.0,19.0,11.0,30.0,-17.0,0.30927835051546393,68,88,1.2941,0.6176,3.2479,- 4.88,18.79
+27,47,Winnipeg Jets,Jansen Harkins,US,C,Prince George (WHL),29.0,2.0,5.0,7.0,-2.0,0.2413793103448276,70,79,1.1286,0.5857,2.9271,14.18,18.61
+28,48,Ottawa Senators,Filip Chlapik,CZ,C,Charlottetown (QMJHL),56.0,5.0,6.0,11.0,-14.0,0.19642857142857142,64,75,1.1719,0.5313,2.5132,- 2.54,18.58
+29,54,Chicago Blackhawks,Graham Knott,CA,LW,Niagara (OHL),,,,,,,59,43,0.7288,0.4068,2.3173,- 3.39,18.97
+30,55,Nashville Predators,Yakov Trenin,RU,C,Gatineau (QMJHL),21.0,2.0,4.0,6.0,1.0,0.2857142857142857,58,67,1.1552,0.4828,1.8538,9.62,18.97
+31,64,Tampa Bay Lightning,Dennis Yan,US,LW,Shawinigan (QMJHL),,,,,,,59,64,1.0847,0.5932,2.8584,16.37,18.71
+32,67,New Jersey Devils,Blake Speers,CA,C,Sault Ste. Marie (OHL),3.0,0.0,0.0,0.0,0.0,0.0,57,67,1.1754,0.614,3.7197,- 1.89,19.0
+33,69,Columbus Blue Jackets,Keegan Kolesar,CA,RW,Seattle (WHL),1.0,0.0,0.0,0.0,0.0,0.0,64,38,0.5938,0.2813,2.0473,- 8.53,18.73
+34,71,Colorado Avalanche,Jean-Christophe Beaudin,CA,C,Rouyn-Noranda (QMJHL),22.0,0.0,1.0,1.0,-4.0,0.045454545454545456,68,53,0.7794,0.4265,2.0967,14.46,18.76
+35,72,Tampa Bay Lightning,Anthony Cirelli,CA,C,Oshawa (OHL),168.0,40.0,54.0,94.0,64.0,0.5595238095238095,68,36,0.5294,0.3676,1.6885,3.52,18.46
+36,84,Anaheim Ducks,Deven Sideroff,CA,RW,Kamloops (WHL),,,,,,,64,42,0.6563,0.3906,2.2049,18.88,18.71
+37,94,St. Louis Blues,Adam Musil,CA,C,Red Deer (WHL),,,,,,,66,39,0.5909,0.2576,1.8059,- 2.74,18.76
+38,99,Los Angeles Kings,Austin Wagner,CA,LW,Regina (WHL),127.0,18.0,14.0,32.0,-3.0,0.25196850393700787,61,39,0.6393,0.377,2.176,- 2.51,18.52
+39,100,Nashville Predators,Anthony Richard,CA,C,Val d'Or (QMJHL),2.0,0.0,0.0,0.0,-2.0,0.0,66,91,1.3788,0.5606,3.1348,- 9.81,19.03
+40,105,Boston Bruins,Jesse Gabrielle,CA,LW,Regina (WHL),,,,,,,66,44,0.6667,0.4394,2.3345,- 1.56,18.54
+41,106,San Jose Sharks,Adam Helewka,CA,LW,Spokane (WHL),,,,,,,60,27,0.45,0.2833,1.4287,3.12,18.44
+42,113,New York Rangers,Brad Morrison,CA,C,Prince George (WHL),,,,,,,67,50,0.7463,0.4478,2.6083,3.98,18.99
+43,115,Nashville Predators,Alexandre Carrier,CA,D,Gatineau (QMJHL),5.0,0.0,0.0,0.0,3.0,0.0,45,1,0.0222,0.0222,0.1459,- 25.38,18.87
+44,116,St. Louis Blues,Glenn Gawdin,CA,C,Swift Current (WHL),,,,,,,72,54,0.75,0.375,1.8865,4.03,18.77
+45,120,Tampa Bay Lightning,Mathieu Joseph,CA,RW,Saint John (QMJHL),107.0,17.0,16.0,33.0,3.0,0.308411214953271,59,42,0.7119,0.4576,2.2899,15.26,18.89
+46,123,Arizona Coyotes,Conor Garland,US,RW,Moncton (QMJHL),115.0,35.0,22.0,57.0,2.0,0.4956521739130435,51,54,1.0588,0.4706,2.3274,2.60,18.81
+47,125,Toronto Maple Leafs,Dmytro Timashov,UA,LW,Quebec (QMJHL),44.0,4.0,5.0,9.0,1.0,0.20454545454545456,66,90,1.3636,0.6212,2.7517,8.55,19.25
+48,134,Los Angeles Kings,Matt Schmalz,CA,RW,Sudbury (OHL),,,,,,,66,8,0.1212,0.1061,0.5709,- 28.72,18.78
+49,136,Calgary Flames,Pavel Karnaukhov,BY,LW,Calgary (WHL),,,,,,,69,42,0.6087,0.2609,2.0721,- 15.07,18.79
+50,138,Carolina Hurricanes,Spencer Smallman,CA,RW,Saint John (QMJHL),,,,,,,66,35,0.5303,0.2121,1.2622,19.52,18.31
+51,152,Buffalo Sabres,Giorgio Estephan,CA,C,Lethbridge (WHL),,,,,,,64,51,0.7969,0.3594,2.2033,13.30,18.91
+52,164,Chicago Blackhawks,Roy Radke,US,RW,Barrie (OHL),,,,,,,64,18,0.2813,0.2188,1.3405,- 10.98,19.06
+53,165,Boston Bruins,Cameron Hughes,CA,C,Wisconsin (Big Ten),1.0,0.0,0.0,0.0,-1.0,0.0,34,0,0.0,0.0,0.0,- 36.99,18.53
+54,166,Calgary Flames,Andrew Mangiapane,CA,LW,Barrie (OHL),122.0,25.0,20.0,45.0,12.0,0.36885245901639346,68,51,0.75,0.5882,2.804,11.24,18.74
+55,176,St. Louis Blues,Liam Dunda,US,LW,Owen Sound (OHL),,,,,,,53,9,0.1698,0.0755,0.5165,- 10.13,18.29
+56,180,Tampa Bay Lightning,Bokondji Imama,CA,LW,Saint John (QMJHL),,,,,,,59,15,0.2542,0.2203,1.2717,9.50,18.41
+57,185,Toronto Maple Leafs,Nikita Korostelev,RU,RW,Sarnia (OHL),,,,,,,55,53,0.9636,0.5273,2.5379,7.44,18.9
+58,186,Carolina Hurricanes,Steven Lorentz,CA,C; LW,Peterborough (OHL),,,,,,,64,18,0.2813,0.1563,0.9767,- 5.56,18.72
+59,200,Detroit Red Wings,Adam Marsh,US,LW,Saint John (QMJHL),,,,,,,60,44,0.7333,0.4167,2.2359,2.59,18.36
+60,203,Winnipeg Jets,Matteo Gennaro,CA,C,Prince Albert (WHL),,,,,,,72,31,0.4306,0.3194,1.6362,1.42,18.75
+61,207,Montreal Canadiens,Jeremiah Addison,CA,LW,Ottawa (OHL),,,,,,,63,47,0.746,0.4286,2.2555,4.56,19.19
+62,2,Buffalo Sabres,Sam Reinhart,CA,C,KOOTENAY (WHL),400.0,109.0,146.0,255.0,-69.0,0.6375,60,105,1.75,0.7,3.8671,16.14,19.15
+63,3,Edmonton Oilers,Leon Draisaitl,DE,C,PRINCE ALBERT (WHL),422.0,168.0,254.0,422.0,-24.0,1.0,64,105,1.6406,0.8281,4.7047,13.70,19.18
+64,5,New York Islanders,Michael Dal Colle,CA,LW,OSHAWA (OHL),85.0,7.0,10.0,17.0,-5.0,0.2,67,95,1.4179,0.6716,3.3622,5.79,18.53
+65,6,Vancouver Canucks,Jake Virtanen,CA,RW,CALGARY (WHL),279.0,50.0,45.0,95.0,-25.0,0.34050179211469533,71,71,1.0,0.5775,3.1128,4.11,18.37
+66,9,Winnipeg Jets,Nikolaj Ehlers,DK,LW,HALIFAX (QMJHL),369.0,115.0,142.0,257.0,34.0,0.6964769647696477,63,104,1.6508,0.746,3.5233,16.38,18.88
+67,12,Arizona Coyotes,Brendan Perlini,GB,LW,NIAGARA (OHL),239.0,46.0,30.0,76.0,-41.0,0.3179916317991632,58,71,1.2241,0.4483,3.1314,12.18,18.68
+68,26,Montreal Canadiens,Nikita Scherbak,RU,RW,SASKATOON (WHL),37.0,6.0,2.0,8.0,-8.0,0.21621621621621623,65,78,1.2,0.6,3.3739,14.89,19.0
+69,27,San Jose Sharks,Nikolay Goldobin,RU,RW,SARNIA (OHL),125.0,19.0,27.0,46.0,-23.0,0.368,67,94,1.403,0.8657,3.3465,16.69,19.23
+70,28,New York Islanders,Joshua Ho-Sang,CA,C/RW,WINDSOR (OHL),53.0,7.0,17.0,24.0,-4.0,0.4528301886792453,67,85,1.2687,0.7463,3.5514,11.00,18.94
+71,30,New Jersey Devils,John Quenneville,CA,C,BRANDON (WHL),42.0,2.0,3.0,5.0,-4.0,0.11904761904761904,61,58,0.9508,0.5082,3.1454,3.49,18.71
+72,31,Buffalo Sabres,Brendan Lemieux,US,LW,BARRIE (OHL),131.0,19.0,17.0,36.0,-6.0,0.2748091603053435,65,53,0.8154,0.4462,2.179,- 5.90,18.79
+73,32,Florida Panthers,Jayce Hawryluk,CA,C,BRANDON (WHL),68.0,10.0,12.0,22.0,-7.0,0.3235294117647059,59,64,1.0847,0.5763,3.6412,14.26,19.0
+74,44,Buffalo Sabres,Eric Cornel,CA,C,PETERBOROUGH (OHL),,,,,,,68,62,0.9118,0.5441,3.0159,4.29,18.72
+75,45,Dallas Stars,Brett Pollock,CA,LW,EDMONTON (WHL),,,,,,,71,55,0.7746,0.3803,2.639,0.01,18.79
+76,48,Philadelphia Flyers,Nicolas Aube-Kubel,CA,RW,VAL-D'OR (QMJHL),45.0,7.0,8.0,15.0,2.0,0.3333333333333333,65,53,0.8154,0.4769,2.2371,- 8.39,18.64
+77,49,Buffalo Sabres,Vaclav Karabacek,CZ,RW,GATINEAU (QMJHL),,,,,,,65,47,0.7231,0.3846,2.2144,0.03,18.66
+78,54,Calgary Flames,Hunter Smith,CA,RW,OSHAWA (OHL),,,,,,,30,1,0.0333,0.0333,0.226,- 40.89,18.31
+79,58,Arizona Coyotes,Christian Dvorak,US,LW,LONDON (OHL),246.0,50.0,65.0,115.0,-8.0,0.46747967479674796,33,14,0.4242,0.303,1.7586,- 1.82,18.91
+80,62,Nashville Predators,Justin Kirkland,CA,LW,KELOWNA (WHL),,,,,,,68,48,0.7059,0.2941,2.4938,4.35,18.41
+81,63,Detroit Red Wings,Dominic Turgeon,CA,C,PORTLAND (WHL),9.0,0.0,0.0,0.0,-5.0,0.0,65,31,0.4769,0.2615,1.6518,- 4.17,18.85
+82,71,New Jersey Devils,Connor Chatham,US,RW,PLYMOUTH (OHL),,,,,,,54,31,0.5741,0.3148,1.5407,- 0.96,19.17
+83,72,San Jose Sharks,Alex Schoenborn,US,RW,PORTLAND (WHL),,,,,,,72,36,0.5,0.375,1.9935,- 2.46,19.05
+84,79,Tampa Bay Lightning,Brayden Point,CA,C,MOOSE JAW (WHL),295.0,116.0,146.0,262.0,77.0,0.888135593220339,72,91,1.2639,0.625,3.4861,6.64,18.8
+85,81,San Jose Sharks,Dylan Sadowy,CA,LW,SAGINAW (OHL),,,,,,,68,36,0.5294,0.4118,2.0416,2.77,18.75
+86,85,New York Rangers,Keegan Iverson,US,C/RW,PORTLAND (WHL),,,,,,,67,42,0.6269,0.3433,2.2247,- 2.67,18.74
+87,90,Los Angeles Kings,Michael Amadio,CA,C,NORTH BAY (OHL),148.0,16.0,21.0,37.0,-14.0,0.25,64,38,0.5938,0.2969,1.7616,12.34,18.63
+88,99,Winnipeg Jets,Chase De Leo,US,C,PORTLAND (WHL),4.0,0.0,0.0,0.0,2.0,0.0,72,81,1.125,0.6667,3.5103,10.20,19.18
+89,107,Columbus Blue Jackets,Julien Pelletier,CA,LW,CAPE BRETON (QMJHL),,,,,,,67,50,0.7463,0.3134,2.2361,- 2.40,18.51
+90,114,Colorado Avalanche,Alexis Pepin,CA,LW,GATINEAU (QMJHL),,,,,,,60,34,0.5667,0.3167,1.7235,- 2.52,18.69
+91,117,Arizona Coyotes,Michael Bunting,CA,LW,SAULT STE. MARIE (OHL),5.0,1.0,0.0,1.0,0.0,0.2,48,42,0.875,0.4792,2.6243,2.93,19.29
+92,124,St. Louis Blues,Jaedon Descheneau,CA,RW,KOOTENAY (WHL),,,,,,,69,78,1.1304,0.6522,2.9747,12.44,18.86
+93,127,Carolina Hurricanes,Clark Bishop,CA,C,CAPE BRETON (QMJHL),25.0,1.0,3.0,4.0,-5.0,0.16,56,33,0.5893,0.2321,1.5813,- 4.31,18.76
+94,147,Montreal Canadiens,Daniel Audette,US,C,SHERBROOKE (QMJHL),,,,,,,68,76,1.1176,0.5,2.7262,5.83,18.65
+95,149,San Jose Sharks,Rourke Chartier,CA,C,KELOWNA (WHL),13.0,1.0,0.0,1.0,-5.0,0.07692307692307693,72,58,0.8056,0.5139,2.5583,- 1.63,18.74
+96,156,Vancouver Canucks,Kyle Pettit,CA,C,ERIE (OHL),,,,,,,53,10,0.1887,0.0943,0.6348,- 14.94,18.95
+97,161,New Jersey Devils,Brandon Baddock,CA,LW,EDMONTON (WHL),,,,,,,59,11,0.1864,0.1186,0.7092,- 18.41,18.76
+98,167,Minnesota Wild,Chase Lang,CA,C,CALGARY (WHL),,,,,,,68,25,0.3676,0.2941,1.6716,0.79,18.3
+99,169,Minnesota Wild,Reid Duke,CA,C,LETHBRIDGE (WHL),,,,,,,62,40,0.6452,0.2581,2.1175,- 0.86,18.93
+100,171,San Jose Sharks,Kevin Labanc,US,RW,BARRIE (OHL),284.0,50.0,99.0,149.0,-31.0,0.5246478873239436,65,35,0.5385,0.3077,1.733,- 4.05,19.05
+101,172,St. Louis Blues,Chandler Yakimowicz,US,RW,LONDON (OHL),,,,,,,33,7,0.2121,0.2121,1.1649,7.01,18.93
+102,173,Pittsburgh Penguins,Jaden Lindo,CA,RW,OWEN SOUND (OHL),,,,,,,40,18,0.45,0.25,1.6179,- 12.62,18.97
+103,176,St. Louis Blues,Samuel Blais,CA,LW,VICTORIAVILLE (QMJHL),83.0,9.0,11.0,20.0,-2.0,0.24096385542168675,25,14,0.56,0.24,2.086,1.16,18.54
+104,184,Calgary Flames,Austin Carroll,CA,RW,VICTORIA (WHL),,,,,,,62,20,0.3226,0.2581,1.4031,3.99,18.76
+105,190,Ottawa Senators,Francis Perron,CA,LW,ROUYN-NORANDA (QMJHL),,,,,,,68,55,0.8088,0.3088,1.9133,- 3.14,18.7
+106,193,Arizona Coyotes,Edgars Kulda,LV,LW,EDMONTON (WHL),,,,,,,64,17,0.2656,0.1563,0.8447,- 9.80,19.13
+107,200,New York Islanders,Lukas Sutter,US,C,RED DEER (WHL),,,,,,,70,59,0.8429,0.4,2.4577,10.30,19.24
+108,39,Winnipeg Jets,Lukas Sutter,US,C,Saskatoon (WHL),,,,,,,70,59,0.8429,0.4,2.4577,10.30,19.24
+109,204,Colorado Avalanche,Julien Nantel,CA,C/LW,ROUYN-NORANDA (QMJHL),,,,,,,68,34,0.5,0.3088,1.7386,3.30,18.32
+110,207,Montreal Canadiens,Jake Evans,CA,C/RW,ST. MICHAELS (OJHL),13.0,2.0,1.0,3.0,1.0,0.23076923076923078,56,16,0.2857,0.1786,0.9583,- 11.13,18.87
+111,209,Los Angeles Kings,Spencer Watson,CA,RW,KINGSTON (OHL),,,,,,,65,68,1.0462,0.7077,3.1671,13.28,18.68
+112,1,Colorado Avalanche,Nathan Mackinnon,CA,C,Halifax (QMJHL),525.0,190.0,305.0,495.0,39.0,0.9428571428571428,44,75,1.7045,0.9091,4.0068,8.84,18.33
+113,3,Tampa Bay Lightning,Jonathan Drouin,CA,LW,Halifax (QMJHL),349.0,67.0,142.0,209.0,-51.0,0.5988538681948424,49,105,2.1429,0.9388,4.4226,7.51,18.76
+114,6,Calgary Flames,Sean Monahan,CA,C,Ottawa (OHL),541.0,194.0,217.0,411.0,-25.0,0.7597042513863216,58,78,1.3448,0.5517,3.206,12.02,19.22
+115,9,Vancouver Canucks,Bo Horvat,CA,C,London (OHL),446.0,120.0,155.0,275.0,-65.0,0.6165919282511211,67,61,0.9104,0.3881,2.6031,- 10.41,18.74
+116,12,Phoenix Coyotes,Max Domi,CA,C/LW,London (OHL),375.0,81.0,170.0,251.0,4.0,0.6693333333333333,64,87,1.3594,0.625,3.6996,13.70,18.83
+117,17,Ottawa Senators,Curtis Lazar,CA,C/RW,Edmonton (WHL),284.0,20.0,41.0,61.0,-20.0,0.2147887323943662,72,61,0.8472,0.4444,3.2106,- 0.81,18.91
+118,19,Columbus Blue Jackets,Kerby Rychel,US,LW,Windsor (OHL),43.0,3.0,11.0,14.0,5.0,0.32558139534883723,68,87,1.2794,0.5294,3.0676,8.22,19.23
+119,20,Detroit Red Wings,Anthony Mantha,CA,RW,Val-D'Or (QMJHL),260.0,84.0,89.0,173.0,-12.0,0.6653846153846154,67,89,1.3284,0.7313,2.9995,3.45,19.29
+120,21,Toronto Maple Leafs,Frederik Gauthier,CA,C,Rimouski (QMJHL),168.0,13.0,18.0,31.0,-8.0,0.18452380952380953,62,60,0.9677,0.4677,2.3112,9.86,18.68
+121,22,Calgary Flames,Emile Poirier,CA,LW,Gatineau (QMJHL),8.0,0.0,1.0,1.0,0.0,0.125,65,70,1.0769,0.5385,2.5068,5.18,19.05
+122,24,Vancouver Canucks,Hunter Shinkaruk,CA,C/LW,Medicine Hat (WHL),15.0,2.0,2.0,4.0,-7.0,0.26666666666666666,64,86,1.3438,0.6094,3.6362,- 1.85,19.22
+123,28,Calgary Flames,Morgan Klimchuk,CA,LW,Regina (WHL),1.0,0.0,0.0,0.0,0.0,0.0,72,76,1.0556,0.4306,3.3093,11.00,18.83
+124,29,Dallas Stars,Jason Dickinson,CA,C,Guelph (OHL),170.0,18.0,30.0,48.0,12.0,0.2823529411764706,66,47,0.7121,0.3636,1.9427,6.99,18.49
+125,30,Chicago Blackhawks,Ryan Hartman,US,RW,Plymouth (OHL),314.0,51.0,58.0,109.0,17.0,0.3471337579617834,56,60,1.0714,0.5893,2.5529,7.88,19.28
+126,33,Tampa Bay Lightning,Adam Erne,US,LW,Quebec (QMJHL),170.0,15.0,17.0,32.0,-24.0,0.18823529411764706,68,72,1.0588,0.5294,2.5463,6.89,18.7
+127,37,Los Angeles Kings,Valentin Zykov,RU,LW,Baie-Comeau (QMJHL),55.0,7.0,10.0,17.0,-2.0,0.3090909090909091,67,75,1.1194,0.597,2.9079,7.08,18.63
+128,39,Phoenix Coyotes,Laurent Dauphin,CA,C,Chicoutimi (QMJHL),35.0,3.0,1.0,4.0,-4.0,0.11428571428571428,62,57,0.9194,0.4032,2.5275,4.57,18.76
+129,40,Dallas Stars,Remi Elie,CA,LW,London (OHL),106.0,7.0,15.0,22.0,7.0,0.20754716981132076,65,17,0.2615,0.2,1.1533,- 2.12,18.71
+130,43,Winnipeg Jets,Nic Petan,CA,C,Portland (WHL),129.0,6.0,21.0,27.0,-20.0,0.20930232558139536,71,120,1.6901,0.8592,4.3615,9.77,18.78
+131,45,Anaheim Ducks,Nick Sorensen,DK,RW,Quebec (QMJHL),5.0,0.0,1.0,1.0,-1.0,0.2,46,47,1.0217,0.5652,2.7643,- 2.51,19.19
+132,48,Detroit Red Wings,Zach Nastasiuk,CA,RW,Owen Sound (OHL),,,,,,,62,40,0.6452,0.2581,2.0272,5.33,18.75
+133,49,San Jose Sharks,Gabryel Boudreau,CA,LW,Baie-Comeau (QMJHL),,,,,,,67,63,0.9403,0.5075,2.7484,13.13,18.86
+134,52,Buffalo Sabres,Justin Bailey,US,RW,Kitchener (OHL),65.0,5.0,4.0,9.0,-4.0,0.13846153846153847,57,36,0.6316,0.4035,2.0093,17.84,18.5
+135,56,Edmonton Oilers,Marc-Olivier Roy,CA,C,Blainville-Boisbriand (QMJHL),,,,,,,65,67,1.0308,0.4923,2.2496,- 12.31,19.16
+136,57,St. Louis Blues,William Carrier,CA,LW,Cape Breton (QMJHL),203.0,21.0,18.0,39.0,-8.0,0.1921182266009852,34,42,1.2353,0.7647,2.6708,14.52,19.03
+137,58,Detroit Red Wings,Tyler Bertuzzi,CA,LW,Guelph (OHL),199.0,49.0,70.0,119.0,-20.0,0.5979899497487438,43,22,0.5116,0.3721,2.1452,- 13.25,18.85
+138,69,Buffalo Sabres,Nicholas Baptiste,CA,RW,Sudbury (OHL),47.0,7.0,3.0,10.0,-3.0,0.2127659574468085,66,48,0.7273,0.4091,2.4783,2.93,18.41
+139,72,Philadelphia Flyers,Tyrell Goulbourne,CA,LW,Kelowna (WHL),11.0,0.0,0.0,0.0,-2.0,0.0,63,14,0.2222,0.1587,0.9227,- 8.13,18.93
+140,73,New Jersey Devils,Ryan Kujawinski,CA,C,Kingston (OHL),,,,,,,66,48,0.7273,0.4545,1.903,0.53,18.75
+141,80,New York Rangers,Anthony Duclair,CA,LW,Quebec (QMJHL),353.0,79.0,83.0,162.0,-3.0,0.45892351274787535,55,50,0.9091,0.5636,2.5453,18.51,18.35
+142,81,Minnesota Wild,Kurtis Gabriel,CA,RW,Owen Sound (OHL),38.0,2.0,3.0,5.0,1.0,0.13157894736842105,40,4,0.1,0.075,0.479,- 11.95,18.7
+143,82,Toronto Maple Leafs,Carter Verhaeghe,CA,C,Niagara (OHL),52.0,9.0,4.0,13.0,-9.0,0.25,67,44,0.6567,0.3731,1.9455,- 3.49,18.38
+144,84,Winnipeg Jets,Jimmy Lodge,US,C,Saginaw (OHL),,,,,,,64,67,1.0469,0.5,3.1196,3.59,18.82
+145,85,Vancouver Canucks,Cole Cassels,US,C,Oshawa (OHL),,,,,,,64,43,0.6719,0.2813,1.6912,0.09,18.66
+146,89,Columbus Blue Jackets,Oliver Bjorkstrand,DK,RW,Portland (WHL),246.0,65.0,68.0,133.0,30.0,0.540650406504065,65,63,0.9692,0.6308,3.4829,8.86,18.73
+147,94,Edmonton Oilers,Jackson Houck,CA,RW,Vancouver (WCHL),,,,,,,69,57,0.8261,0.3768,2.4573,7.39,18.91
+148,95,Nashville Predators,Felix Girard,CA,C,Baie-Comeau (QMJHL),,,,,,,60,21,0.35,0.2667,1.1989,2.66,18.64
+149,96,Edmonton Oilers,Kyle Platzer,CA,C,London (OHL),,,,,,,65,22,0.3385,0.2769,1.5991,- 5.95,18.83
+150,103,Los Angeles Kings,Justin Auger,CA,RW,Guelph (OHL),2.0,0.0,0.0,0.0,-1.0,0.0,58,14,0.2414,0.1379,1.0267,- 12.33,18.63
+151,105,Columbus Blue Jackets,Nick Moutrey,CA,C/LW,Saginaw (OHL),,,,,,,65,43,0.6615,0.4769,2.2188,0.22,18.52
+152,116,Montreal Canadiens,Martin Reway,CZ,LW,Gatineau (QMJHL),,,,,,,47,50,1.0638,0.4681,2.6529,9.14,18.94
+153,122,Florida Panthers,Christopher Clapperton,CA,LW,Blainville-Boisbriand (QMJHL),,,,,,,56,55,0.9821,0.5,2.2868,7.19,18.86
+154,126,Carolina Hurricanes,Brent Pedersen,CA,LW,Kitchener (OHL),,,,,,,67,30,0.4478,0.2537,1.4866,6.41,18.49
+155,131,Dallas Stars,Cole Ully,CA,LW,Kamloops (WHL),,,,,,,62,50,0.8065,0.4194,2.6801,14.39,18.86
+156,138,Ottawa Senators,Vincent Dunn,CA,C,Val-D'Or (QMJHL),,,,,,,53,52,0.9811,0.6038,2.996,11.56,18.3
+157,160,New Jersey Devils,Myles Bell,CA,RW,Kelowna (WHL),,,,,,,66,45,0.6818,0.2727,1.5304,7.76,18.38
+158,166,New York Islanders,Alan Quine,CA,C,Belleville (OHL),106.0,10.0,18.0,28.0,-5.0,0.2641509433962264,69,53,0.7681,0.3333,2.2364,- 5.60,18.85
+159,85,Detroit Red Wings,Alan Quine,CA,C,Peterborough (OHL),106.0,10.0,18.0,28.0,-5.0,0.2641509433962264,69,53,0.7681,0.3333,2.2364,- 5.60,18.85
+160,171,Nashville Predators,Tommy Veilleux,CA,LW,Victoriaville (QMJHL),,,,,,,66,28,0.4242,0.2424,1.3306,- 2.76,18.65
+161,176,Montreal Canadiens,Jeremy Gregoire,CA,C,Baie-Comeau (QMJHL),,,,,,,62,32,0.5161,0.2581,1.5308,- 9.40,18.32
+162,189,Buffalo Sabres,Eric Locke,US,C,Saginaw (OHL),,,,,,,52,40,0.7692,0.4423,2.5637,- 4.49,19.11
+163,191,Los Angeles Kings,Dominik Kubalik,CZ,LW,Sudbury (OHL),68.0,30.0,16.0,46.0,2.0,0.6764705882352942,67,34,0.5075,0.3284,1.6289,1.63,18.36
+164,210,Boston Bruins,Mitchell Dempsey,CA,LW,Sault Ste. Marie (OHL),,,,,,,36,5,0.1389,0.1389,0.8046,- 7.63,18.84
+165,1,Edmonton Oilers,Nail Yakupov,RU,RW,Sarnia (OHL),350.0,62.0,74.0,136.0,-89.0,0.38857142857142857,42,69,1.6429,0.7381,3.5415,16.01,19.24
+166,12,Buffalo Sabres,Mikhail Grigorenko,RU,C,Quebec (QMJHL),217.0,22.0,42.0,64.0,-26.0,0.29493087557603687,59,85,1.4407,0.8305,3.1069,8.16,18.63
+167,13,Dallas Stars,Radek Faksa,CZ,C,Kitchener (OHL),351.0,60.0,68.0,128.0,15.0,0.3646723646723647,62,66,1.0645,0.5323,3.138,9.25,18.98
+168,16,Washington Capitals,Tom Wilson,CA,RW,Plymouth (OHL),522.0,78.0,110.0,188.0,30.0,0.36015325670498083,49,27,0.551,0.3061,1.8052,0.54,18.76
+169,20,Philadelphia Flyers,Scott Laughton,CA,C,Oshawa (OHL),321.0,44.0,62.0,106.0,-11.0,0.3302180685358255,64,53,0.8281,0.4375,2.2505,2.28,18.58
+170,26,Vancouver Canucks,Brendan Gaunce,CA,C,Belleville (OHL),118.0,6.0,10.0,16.0,-7.0,0.13559322033898305,68,68,1.0,0.5441,2.5925,8.93,18.77
+171,27,Phoenix Coyotes,Henrik Samuelsson,US,C/RW,Edmonton (WHL),3.0,0.0,0.0,0.0,-2.0,0.0,28,23,0.8214,0.4286,2.0697,18.59,18.9
+172,41,Colorado Avalanche,Mitchell Heard,CA,C,Plymouth (OHL),,,,,,,16,3,0.1875,0.1875,1.0589,2.54,18.8
+173,46,Minnesota Wild,Raphael Bussieres,CA,LW,Baie-Comeau (QMJHL),,,,,,,56,44,0.7857,0.5,1.9813,5.74,19.16
+174,47,Carolina Hurricanes,Brock Mcginn,CA,LW,Guelph (OHL),308.0,43.0,50.0,93.0,-31.0,0.30194805194805197,33,19,0.5758,0.3333,1.9666,- 4.68,18.91
+175,49,Detroit Red Wings,Martin Frk,CZ,RW,Halifax (QMJHL),117.0,18.0,21.0,39.0,-27.0,0.3333333333333333,34,29,0.8529,0.5294,2.3188,1.24,19.24
+176,50,Nashville Predators,Colton Sissons,CA,C,Kelowna (WHL),322.0,46.0,46.0,92.0,36.0,0.2857142857142857,58,41,0.7069,0.2759,2.7297,- 4.40,19.16
+177,54,Dallas Stars,Mike Winther,CA,C,Prince Albert (WHL),,,,,,,71,56,0.7887,0.3099,2.6362,6.90,18.48
+178,55,San Jose Sharks,Chris Tierney,CA,C,London (OHL),436.0,61.0,128.0,189.0,-41.0,0.4334862385321101,65,34,0.5231,0.3231,1.637,3.78,18.5
+179,57,Vancouver Canucks,Alexandre Mallet,CA,LW,Rimouski (QMJHL),,,,,,,65,19,0.2923,0.2308,1.1866,- 17.37,18.61
+180,64,Montreal Canadiens,Tim Bozon,US,LW,Kamloops (WHL),,,,,,,71,71,1.0,0.5775,3.1118,10.01,18.77
+181,70,Winnipeg Jets,Scott Kosmachuk,CA,RW,Guelph (OHL),8.0,0.0,3.0,3.0,1.0,0.375,67,59,0.8806,0.3731,2.4309,- 2.87,18.94
+182,72,Colorado Avalanche,Troy Bourke,CA,LW,Prince George (WHL),,,,,,,71,56,0.7887,0.3662,2.2131,8.02,18.75
+183,73,Buffalo Sabres,Justin Kea,CA,C,Saginaw (OHL),,,,,,,65,14,0.2154,0.1692,0.9194,- 5.56,18.9
+184,77,Washington Capitals,Chandler Stephenson,CA,C/LW,Regina (WHL),209.0,22.0,33.0,55.0,21.0,0.2631578947368421,55,42,0.7636,0.5273,2.6228,0.98,18.69
+185,82,Ottawa Senators,Jarrod Maidens,CA,C/LW,Owen Sound (OHL),,,,,,,28,23,0.8214,0.4643,2.3274,- 0.97,18.83
+186,84,Florida Panthers,Steven Hodges,CA,C,Victoria (WHL),,,,,,,72,46,0.6389,0.4306,2.0751,2.37,18.66
+187,89,Nashville Predators,Brendan Leipsic,CA,LW,Portland (WHL),187.0,16.0,43.0,59.0,-16.0,0.3155080213903743,65,58,0.8923,0.5231,3.1036,5.38,18.62
+188,90,New Jersey Devils,Ben Johnson,US,C/LW,Windsor (OHL),,,,,,,68,38,0.5588,0.3971,2.1451,2.50,18.57
+189,91,Edmonton Oilers,Daniil Zharkov,RU,LW,Belleville (OHL),,,,,,,50,36,0.72,0.4,2.3286,2.51,18.9
+190,92,Pittsburgh Penguins,Matia Marcantuoni,CA,C/RW,Kitchener (OHL),,,,,,,24,14,0.5833,0.25,1.4741,- 7.30,18.86
+191,94,Montreal Canadiens,Brady Vail,US,C,Windsor (OHL),,,,,,,68,52,0.7647,0.4265,2.2076,8.19,18.81
+192,96,New Jersey Devils,Ben Thomson,CA,LW,Kitchener (OHL),3.0,0.0,0.0,0.0,-4.0,0.0,68,19,0.2794,0.1471,0.7576,- 10.13,18.96
+193,104,Dallas Stars,Gemel Smith,CA,C,Owen Sound (OHL),83.0,12.0,9.0,21.0,0.0,0.25301204819277107,68,60,0.8824,0.4853,2.6775,- 0.59,18.71
+194,109,San Jose Sharks,Christophe Lalancette,CA,RW,Acadie-Bathurst (QMJHL),,,,,,,63,47,0.746,0.4127,2.0969,10.49,18.65
+195,110,Detroit Red Wings,Andreas Athanasiou,CA,C/LW,London (OHL),303.0,84.0,72.0,156.0,-76.0,0.5148514851485149,63,37,0.5873,0.4286,2.2097,- 0.16,18.4
+196,117,Philadelphia Flyers,Taylor Leier,CA,LW,Portland (WHL),55.0,2.0,5.0,7.0,-8.0,0.12727272727272726,72,37,0.5139,0.3333,1.9751,2.48,18.88
+197,122,Montreal Canadiens,Charles Hudon,CA,LW,Chicoutimi (QMJHL),125.0,14.0,27.0,41.0,-27.0,0.328,59,66,1.1186,0.5932,2.7083,13.33,18.52
+198,131,Boston Bruins,Seth Griffith,CA,C,London (OHL),79.0,8.0,11.0,19.0,-6.0,0.24050632911392406,68,62,0.9118,0.4265,2.5745,6.81,18.99
+199,132,Colorado Avalanche,Michael Clarke,CA,C,Windsor (OHL),,,,,,,68,36,0.5294,0.3676,1.5451,1.39,18.67
+200,132,Colorado Avalanche,Michael Clarke,CA,C,Windsor (OHL),,,,,,,34,11,0.3235,0.2647,1.3508,- 2.71,18.61
+201,134,Dallas Stars,Branden Troock,CA,RW,Seattle (WHL),,,,,,,58,26,0.4483,0.2414,1.423,7.00,18.83
+202,139,Chicago Blackhawks,Garret Ross,US,LW,Saginaw (OHL),,,,,,,43,11,0.2558,0.186,1.1402,- 7.23,18.6
+203,145,Boston Bruins,Cody Payne,GB,RW,Plymouth (OHL),,,,,,,60,16,0.2667,0.1333,0.8988,- 16.43,18.96
+204,156,Toronto Maple Leafs,Connor Brown,CA,RW,Erie (OHL),324.0,59.0,83.0,142.0,6.0,0.4382716049382716,68,53,0.7794,0.3529,2.0653,- 2.22,18.96
+205,157,Toronto Maple Leafs,Ryan Rupert,CA,C,London (OHL),,,,,,,63,48,0.7619,0.3968,2.0235,- 8.63,18.58
+206,160,Winnipeg Jets,Ryan Olsen,CA,C,Saskatoon (WHL),,,,,,,67,32,0.4776,0.3134,1.4644,- 10.23,18.77
+207,162,Colorado Avalanche,Joseph Blandisi,CA,C/RW,Owen Sound (OHL),101.0,10.0,21.0,31.0,-26.0,0.3069306930693069,68,31,0.4559,0.2353,1.7006,0.93,18.45
+208,165,Calgary Flames,Coda Gordon,CA,LW,Swift Current (WHL),,,,,,,66,53,0.803,0.3636,2.8887,13.19,18.41
+209,173,Pittsburgh Penguins,Anton Zlobin,RU,RW,Shawinigan (QMJHL),,,,,,,59,45,0.7627,0.4237,2.2931,5.97,18.86
+210,174,Florida Panthers,Francis Beauvillier,CA,C/LW,Rimouski (QMJHL),,,,,,,67,34,0.5075,0.3134,1.6604,- 12.52,19.19
+211,180,New Jersey Devils,Artur Gavrus,BY,C/LW,Owen Sound (OHL),,,,,,,45,37,0.8222,0.3556,2.39,- 1.47,18.99
+212,187,Anaheim Ducks,Kenton Helgesen,CA,D,Calgary (WHL),,,,,,,58,14,0.2414,0.1034,0.5881,- 0.87,18.78
+213,192,Colorado Avalanche,Colin Smith,CA,C,Kamloops (WHL),1.0,0.0,0.0,0.0,0.0,0.0,72,50,0.6944,0.3194,2.5932,- 3.42,18.53
+214,206,St. Louis Blues,Tyrel Seaman,CA,C,Brandon (WHL),,,,,,,32,19,0.5938,0.25,1.5789,- 20.93,18.99
+215,2,Colorado Avalanche,Gabriel Landeskog,SE,LW,Kitchener (OHL),633.0,198.0,262.0,460.0,36.0,0.7266982622432859,53,66,1.2453,0.717,2.9349,17.86,19.11
+216,3,Florida Panthers,Jonathan Huberdeau,CA,C,Saint John (QMJHL),536.0,148.0,289.0,437.0,-6.0,0.8152985074626866,67,105,1.5672,0.7612,3.4558,3.32,18.58
+217,5,New York Islanders,Ryan Strome,CA,C,Niagara (OHL),491.0,95.0,159.0,254.0,19.0,0.5173116089613035,65,106,1.6308,0.7692,3.5083,1.60,18.47
+218,7,Winnipeg Jets,Mark Scheifele,CA,C,Barrie (OHL),519.0,180.0,264.0,444.0,83.0,0.8554913294797688,66,75,1.1364,0.3788,2.5863,10.21,18.79
+219,8,Philadelphia Flyers,Sean Couturier,US,C,Drummondville (QMJHL),647.0,156.0,246.0,402.0,92.0,0.6213292117465224,58,96,1.6552,0.7241,3.4213,29.24,19.07
+220,18,Chicago Blackhawks,Mark Mcneill,CA,C,Prince Albert (WHL),2.0,0.0,0.0,0.0,-1.0,0.0,70,81,1.1571,0.6143,3.3121,3.88,18.86
+221,21,Ottawa Senators,Stefan Noesen,US,RW,Plymouth (OHL),199.0,31.0,23.0,54.0,-2.0,0.271356783919598,68,77,1.1324,0.6176,2.9169,7.06,18.89
+222,24,Ottawa Senators,Matt Puempel,CA,LW,Peterborough (OHL),87.0,11.0,5.0,16.0,-10.0,0.1839080459770115,55,69,1.2545,0.5455,3.2305,7.92,18.94
+223,26,Chicago Blackhawks,Phillip Danault,CA,LW,Victoriaville (QMJHL),339.0,50.0,125.0,175.0,35.0,0.5162241887905604,64,67,1.0469,0.4375,2.1028,2.82,18.85
+224,27,Tampa Bay Lightning,Vladislav Namestnikov,RU,C,London (OHL),425.0,83.0,106.0,189.0,7.0,0.4447058823529412,68,69,1.0147,0.4853,2.6553,15.31,19.11
+225,28,Minnesota Wild,Zack Phillips,CA,C,Saint John (QMJHL),,,,,,,67,95,1.4179,0.7015,3.357,5.47,19.18
+226,29,Vancouver Canucks,Nicklas Jensen,DK,LW,Oshawa (OHL),31.0,3.0,3.0,6.0,-5.0,0.1935483870967742,61,58,0.9508,0.541,2.3712,2.26,18.82
+227,30,Anaheim Ducks,Rickard Rakell,SE,RW,Plymouth (OHL),447.0,129.0,154.0,283.0,-2.0,0.6331096196868009,49,45,0.9184,0.4286,2.4101,3.76,18.66
+228,32,St. Louis Blues,Ty Rattie,CA,RW,Portland (WHL),99.0,13.0,17.0,30.0,-4.0,0.30303030303030304,67,79,1.1791,0.6119,3.1296,- 0.79,18.91
+229,35,Detroit Red Wings,Tomas Jurco,SK,RW,Saint John (QMJHL),213.0,22.0,30.0,52.0,-10.0,0.24413145539906103,60,56,0.9333,0.4833,2.7266,13.90,19.01
+230,37,Columbus Blue Jackets,Boone Jenner,CA,C,Oshawa (OHL),489.0,113.0,110.0,223.0,-7.0,0.4560327198364008,63,66,1.0476,0.619,2.601,- 0.66,18.54
+231,40,Boston Bruins,Alexander Khokhlachev,RU,C,Windsor (OHL),9.0,0.0,0.0,0.0,-4.0,0.0,67,76,1.1343,0.5672,3.1158,6.71,18.31
+232,43,Chicago Blackhawks,Brandon Saad,US,LW,Saginaw (OHL),588.0,169.0,178.0,347.0,51.0,0.5901360544217688,59,55,0.9322,0.3898,3.1609,- 1.83,19.18
+233,44,Dallas Stars,Brett Ritchie,CA,RW,Sarnia (OHL),268.0,35.0,25.0,60.0,-2.0,0.22388059701492538,49,41,0.8367,0.3878,2.4255,4.84,18.5
+234,56,Phoenix Coyotes,Lucas Lessio,CA,LW,Oshawa (OHL),41.0,3.0,4.0,7.0,-11.0,0.17073170731707318,66,54,0.8182,0.4394,2.341,- 2.21,18.94
+235,61,Ottawa Senators,Shane Prince,US,C,Ottawa (OHL),128.0,12.0,26.0,38.0,-6.0,0.296875,59,88,1.4915,0.8136,3.1788,11.74,19.13
+236,64,Florida Panthers,Vincent Trocheck,US,C,Saginaw (OHL),427.0,112.0,172.0,284.0,-26.0,0.6651053864168618,68,62,0.9118,0.3971,2.8763,0.38,18.47
+237,65,Anaheim Ducks,Joseph Cramarossa,CA,C,Mississauga St. Michael's (OHL),59.0,4.0,6.0,10.0,0.0,0.1694915254237288,59,32,0.5424,0.4576,2.2127,- 1.69,19.18
+238,67,Winnipeg Jets,Adam Lowry,US,LW,Swift Current (WHL),408.0,57.0,66.0,123.0,4.0,0.3014705882352941,66,45,0.6818,0.3333,1.914,3.83,18.76
+239,68,Philadelphia Flyers,Nick Cousins,CA,C,Sault Ste. Marie (OHL),324.0,41.0,57.0,98.0,-15.0,0.30246913580246915,68,68,1.0,0.4265,3.2654,- 1.74,18.45
+240,74,Edmonton Oilers,Travis Ewanyk,CA,LW,Edmonton (WHL),,,,,,,72,27,0.375,0.2222,1.2811,- 8.53,18.76
+241,76,Florida Panthers,Logan Shaw,CA,RW,Cape Breton (QMJHL),215.0,15.0,21.0,36.0,-10.0,0.16744186046511628,68,46,0.6765,0.2647,1.7312,6.30,19.24
+242,77,Buffalo Sabres,Daniel Catenacci,CA,C,Sault Ste. Marie (OHL),12.0,0.0,0.0,0.0,-3.0,0.0,67,71,1.0597,0.4925,2.7647,1.83,18.81
+243,80,Los Angeles Kings,Andy Andreoff,CA,LW,Oshawa (OHL),173.0,13.0,12.0,25.0,-9.0,0.14450867052023122,66,25,0.3788,0.1818,1.3444,3.97,18.62
+244,81,Boston Bruins,Anthony Camara,CA,LW,Saginaw (OHL),,,,,,,64,17,0.2656,0.1719,1.0707,- 16.19,18.33
+245,86,Toronto Maple Leafs,Josh Leivo,CA,LW,Sudbury (OHL),169.0,31.0,34.0,65.0,8.0,0.38461538461538464,64,30,0.4688,0.3125,1.682,- 1.13,18.6
+246,90,Vancouver Canucks,Alexandre Grenier,CA,RW,Halifax (QMJHL),9.0,0.0,0.0,0.0,-5.0,0.0,39,1,0.0256,0.0,0.0,- 28.13,19.24
+247,94,Nashville Predators,Josh Shalla,CA,LW,Saginaw (OHL),,,,,,,68,65,0.9559,0.5294,3.0836,16.20,19.27
+248,102,St. Louis Blues,Yannick Veilleux,CA,LW,Shawinigan (QMJHL),,,,,,,68,48,0.7059,0.3382,2.0049,- 9.45,18.86
+249,106,New York Rangers,Michael St. Croix,CA,C,Edmonton (WHL),,,,,,,68,75,1.1029,0.6029,3.5355,16.07,18.73
+250,107,Buffalo Sabres,Colin Jacobs,US,C,Seattle (WHL),,,,,,,68,44,0.6471,0.3529,2.0317,1.07,18.95
+251,108,Montreal Canadiens,Olivier Archambault,CA,LW,Val-d'Or (QMJHL),,,,,,,65,53,0.8154,0.4308,2.0174,6.31,18.88
+252,111,Phoenix Coyotes,Kale Kessy,CA,LW,Medicine Hat (WHL),,,,,,,65,24,0.3692,0.1385,0.9705,- 8.69,19.08
+253,114,Edmonton Oilers,Tobias Rieder,DE,C,Kitchener (OHL),434.0,59.0,79.0,138.0,-80.0,0.31797235023041476,65,49,0.7538,0.4154,2.4253,1.37,18.98
+254,123,Colorado Avalanche,Garrett Meurs,CA,C,Plymouth (OHL),,,,,,,68,41,0.6029,0.3235,1.8641,0.14,18.97
+255,125,New York Islanders,John Persson,SE,LW,Red Deer (WHL),10.0,1.0,0.0,1.0,-4.0,0.1,62,11,0.1774,0.1129,0.8927,- 13.14,18.62
+256,134,New York Rangers,Shane Mccolgan,US,RW,Kelowna (WHL),,,,,,,67,66,0.9851,0.3134,2.5803,6.16,19.0
+257,139,Chicago Blackhawks,Andrew Shaw,CA,C,Owen Sound (OHL),530.0,114.0,129.0,243.0,29.0,0.45849056603773586,56,17,0.3036,0.2143,1.3593,- 3.66,18.45
+258,141,Phoenix Coyotes,Darian Dziurzynski,CA,LW,Saskatoon (WHL),,,,,,,64,25,0.3906,0.25,1.5223,- 3.61,18.75
+259,144,Pittsburgh Penguins,Dominik Uher,CZ,C,Spokane (WHL),2.0,0.0,0.0,0.0,-1.0,0.0,65,60,0.9231,0.4154,2.9614,- 0.28,19.0
+260,149,Winnipeg Jets,Austen Brassard,CA,RW,Belleville (OHL),,,,,,,67,34,0.5075,0.3134,1.6874,4.90,18.96
+261,152,Toronto Maple Leafs,David Broll,CA,LW,Sault Ste. Marie (OHL),5.0,0.0,1.0,1.0,1.0,0.2,65,34,0.5231,0.2769,1.6511,0.05,18.99
+262,155,Phoenix Coyotes,Andrew Fritsch,CA,RW,Owen Sound (OHL),,,,,,,60,63,1.05,0.55,3.1375,4.07,18.77
+263,162,St. Louis Blues,Ryan Tesink,CA,C,Saint John (QMJHL),,,,,,,59,35,0.5932,0.4407,2.3772,3.84,18.61
+264,165,Dallas Stars,Matej Stransky,CZ,RW,Saskatoon (WHL),,,,,,,71,26,0.3662,0.2394,1.3633,- 1.17,18.47
+265,191,Minnesota Wild,Tyler Graovac,CA,C,Ottawa (OHL),70.0,9.0,2.0,11.0,1.0,0.15714285714285714,66,21,0.3182,0.1667,1.0366,- 13.17,18.68
+266,193,Carolina Hurricanes,Brody Sutter,CA,C,Lethbridge (WHL),12.0,0.0,0.0,0.0,-6.0,0.0,72,14,0.1944,0.1111,0.8073,- 19.53,19.26
+267,202,Nashville Predators,Brent Andrews,CA,LW,Halifax (QMJHL),,,,,,,68,29,0.4265,0.2059,1.3877,- 5.26,18.95
+268,206,Philadelphia Flyers,Derek Mathers,CA,RW,Peterborough (OHL),,,,,,,55,5,0.0909,0.0909,0.5099,0.59,18.41
+269,1,Edmonton Oilers,Taylor Hall,CA,LW,Windsor (OHL),627.0,218.0,345.0,563.0,-42.0,0.89792663476874,57,106,1.8596,0.7895,5.0101,9.64,19.13
+270,2,Boston Bruins,Tyler Seguin,CA,C,Plymouth (OHL),741.0,279.0,356.0,635.0,82.0,0.8569500674763832,63,106,1.6825,0.873,4.0053,8.74,18.92
+271,4,Columbus Blue Jackets,Ryan Johansen,CA,C,Portland (WHL),660.0,144.0,298.0,442.0,10.0,0.6696969696969697,71,69,0.9718,0.493,3.0364,5.11,18.42
+272,5,New York Islanders,Nino Niederreiter,CH,RW,Portland (WHL),601.0,137.0,153.0,290.0,17.0,0.4825291181364393,65,60,0.9231,0.5231,3.2897,2.21,18.31
+273,6,Tampa Bay Lightning,Brett Connolly,CA,RW,Prince George (WHL),496.0,98.0,90.0,188.0,9.0,0.3790322580645161,16,19,1.1875,0.5625,3.4431,9.69,18.66
+274,7,Carolina Hurricanes,Jeff Skinner,CA,C,Kitchener (OHL),720.0,258.0,207.0,465.0,-118.0,0.6458333333333334,64,90,1.4063,0.5781,3.8081,6.73,18.63
+275,8,Atlanta Thrashers,Alexander Burmistrov,RU,C,Barrie (OHL),348.0,37.0,64.0,101.0,-31.0,0.29022988505747127,62,65,1.0484,0.4355,2.5625,- 2.56,19.19
+276,17,Colorado Avalanche,Joey Hishon,CA,C,Owen Sound (OHL),13.0,1.0,1.0,2.0,-1.0,0.15384615384615385,36,40,1.1111,0.4722,2.695,11.56,19.2
+277,18,Nashville Predators,Austin Watson,US,LW,Peterborough (OHL),306.0,36.0,41.0,77.0,12.0,0.25163398692810457,52,54,1.0385,0.5192,3.1222,- 3.98,18.97
+278,25,Florida Panthers,Quinton Howden,CA,C,Moose Jaw (WHL),97.0,10.0,7.0,17.0,-11.0,0.17525773195876287,65,65,1.0,0.5846,3.1969,6.91,18.94
+279,29,Anaheim Ducks,Emerson Etem,US,RW,Medicine Hat (WHL),173.0,22.0,24.0,46.0,-7.0,0.2658959537572254,72,65,0.9028,0.4583,3.1597,- 3.34,18.54
+280,32,Boston Bruins,Jared Knight,US,C,London (OHL),,,,,,,63,57,0.9048,0.5556,3.0089,6.84,18.96
+281,33,Florida Panthers,John Mcfarland,CA,LW,Sudbury (OHL),3.0,0.0,0.0,0.0,-1.0,0.0,64,50,0.7813,0.4219,2.4005,4.10,18.75
+282,34,Columbus Blue Jackets,Dalton Smith,CA,LW,Ottawa (OHL),1.0,0.0,0.0,0.0,1.0,0.0,62,44,0.7097,0.5323,2.2581,8.76,18.5
+283,39,Minnesota Wild,Brett Bulmer,CA,RW,Kelowna (WHL),17.0,0.0,3.0,3.0,-2.0,0.17647058823529413,65,40,0.6154,0.2769,1.7728,3.15,18.68
+284,40,New York Rangers,Christian Thomas,CA,RW,Oshawa (OHL),27.0,1.0,2.0,3.0,-2.0,0.1111111111111111,64,66,1.0313,0.4688,3.0033,10.41,18.6
+285,43,Toronto Maple Leafs,Brad Ross,CA,LW,Portland (WHL),,,,,,,71,68,0.9577,0.5775,2.9403,10.63,18.59
+286,45,Boston Bruins,Ryan Spooner,CA,C,Peterborough (OHL),325.0,48.0,119.0,167.0,-21.0,0.5138461538461538,47,54,1.1489,0.6383,3.0245,9.46,18.92
+287,47,Los Angeles Kings,Tyler Toffoli,CA,C,Ottawa (OHL),525.0,145.0,155.0,300.0,82.0,0.5714285714285714,65,79,1.2154,0.7077,3.1674,6.81,18.69
+288,48,Edmonton Oilers,Curtis Hamilton,US,LW,Saskatoon (WHL),1.0,0.0,0.0,0.0,0.0,0.0,26,16,0.6154,0.3846,1.8286,- 0.96,19.08
+289,52,Phoenix Coyotes,Phil Lane,US,RW,Brampton (OHL),,,,,,,64,32,0.5,0.2969,1.4201,- 2.15,18.59
+290,55,Columbus Blue Jackets,Petr Straka,CZ,RW,Rimouski (QMJHL),3.0,0.0,2.0,2.0,1.0,0.6666666666666666,62,64,1.0323,0.4839,2.8233,6.69,18.54
+291,61,Edmonton Oilers,Ryan Martindale,CA,C,Ottawa (OHL),,,,,,,61,60,0.9836,0.5246,2.6156,- 6.49,19.18
+292,62,Toronto Maple Leafs,Greg Mckegg,CA,C,Erie (OHL),185.0,18.0,15.0,33.0,-10.0,0.1783783783783784,67,85,1.2687,0.5821,3.5845,10.20,18.54
+293,64,Calgary Flames,Max Reinhart,CA,C,Kootenay (WHL),23.0,1.0,4.0,5.0,-5.0,0.21739130434782608,72,51,0.7083,0.4722,2.1543,0.97,18.91
+294,65,New York Islanders,Kirill Kabanov,RU,LW,Moncton (QMJHL),,,,,,,22,23,1.0455,0.2727,2.8439,- 3.64,18.46
+295,70,Los Angeles Kings,Jordan Weal,CA,C,Regina (WHL),218.0,32.0,37.0,69.0,-20.0,0.3165137614678899,72,102,1.4167,0.5694,4.1405,13.78,18.71
+296,71,Colorado Avalanche,Michael Bournival,CA,LW,Shawinigan (QMJHL),113.0,12.0,10.0,22.0,-6.0,0.19469026548672566,58,62,1.069,0.431,2.5852,5.03,18.58
+297,75,Buffalo Sabres,Kevin Sundher,CA,C,Chilliwack (WHL),,,,,,,72,61,0.8472,0.4444,2.6987,11.84,18.95
+298,76,Ottawa Senators,Jakub Culek,CZ,LW,Rimouski (QMJHL),,,,,,,63,47,0.746,0.2698,1.9465,7.97,18.32
+299,89,Philadelphia Flyers,Michael Chaput,CA,C,Lewiston (QMJHL),169.0,6.0,16.0,22.0,-27.0,0.1301775147928994,68,55,0.8088,0.4265,2.0719,5.54,18.73
+300,98,Buffalo Sabres,Steven Shipley,CA,C,Owen Sound (OHL),,,,,,,68,63,0.9265,0.5,2.2054,- 3.57,18.69
+301,100,New York Rangers,Andrew Yogan,US,C/LW,Erie (OHL),,,,,,,63,55,0.873,0.6667,2.8351,- 3.01,19.08
+302,101,Atlanta Thrashers,Ivan Telegin,RU,LW,Saginaw (OHL),,,,,,,51,44,0.8627,0.451,2.6228,1.51,18.84
+303,105,Carolina Hurricanes,Justin Shugg,CA,LW,Windsor (OHL),3.0,0.0,0.0,0.0,0.0,0.0,67,79,1.1791,0.6716,3.6241,- 2.17,19.02
+304,120,Chicago Blackhawks,Rob Flick,CA,C,Mississauga (OHL),,,,,,,48,8,0.1667,0.1042,0.7527,- 3.45,18.76
+305,129,San Jose Sharks,Freddie Hamilton,CA,C,Niagara (OHL),75.0,4.0,2.0,6.0,-9.0,0.08,64,55,0.8594,0.4688,2.0665,9.61,19.0
+306,133,Calgary Flames,Micheal Ferland,CA,LW,Brandon (WHL),335.0,60.0,74.0,134.0,0.0,0.4,61,28,0.459,0.3115,1.711,- 0.45,18.7
+307,134,St. Louis Blues,Cody Beach,CA,RW,Calgary (WHL),,,,,,,51,14,0.2745,0.2157,1.1679,1.28,18.4
+308,143,Buffalo Sabres,Gregg Sutch,CA,RW,Mississauga (OHL),,,,,,,43,8,0.186,0.1395,0.7268,- 27.47,18.89
+309,144,Toronto Maple Leafs,Sam Carrick,CA,C,Brampton (OHL),34.0,2.0,3.0,5.0,-5.0,0.14705882352941177,66,42,0.6364,0.3333,1.6919,2.69,18.91
+310,147,Montreal Canadiens,Brendan Gallagher,CA,RW,Vancouver (WCHL),547.0,173.0,161.0,334.0,58.0,0.6106032906764168,72,81,1.125,0.5556,3.9671,5.07,18.65
+311,153,Florida Panthers,Corey Durocher,CA,LW,Kingston (OHL),,,,,,,66,26,0.3939,0.3182,1.6613,- 3.62,18.58
+312,164,St. Louis Blues,Stephen Macaulay,CA,LW,Saint John (QMJHL),,,,,,,56,21,0.375,0.2679,1.3295,- 9.60,18.7
+313,166,Edmonton Oilers,Drew Czerwonka,CA,LW,Kootenay (WHL),,,,,,,54,13,0.2407,0.1481,0.8361,- 14.31,18.98
+314,171,Detroit Red Wings,Brooks Macek,CA,C,Tri-City (WHL),,,,,,,72,73,1.0139,0.3611,3.1834,1.48,18.63
+315,172,Vancouver Canucks,Alex Friesen,CA,C,Niagara (OHL),1.0,0.0,0.0,0.0,-2.0,0.0,64,33,0.5156,0.2969,1.4434,1.56,18.92
+316,173,Buffalo Sabres,Cedrick Henley,CA,LW,Val D'Or (QMJHL),,,,,,,44,12,0.2727,0.1591,0.9444,5.94,18.98
+317,178,Ottawa Senators,Mark Stone,CA,RW,Brandon (WHL),449.0,149.0,236.0,385.0,74.0,0.8574610244988864,39,28,0.7179,0.4615,2.499,- 4.03,18.63
+318,182,Toronto Maple Leafs,Josh Nicholls,CA,RW,Saskatoon (WHL),,,,,,,71,48,0.6761,0.3803,2.2463,9.32,18.68
+319,189,Minnesota Wild,Dylen Mckinlay,CA,RW,Chilliwack (WHL),,,,,,,72,43,0.5972,0.3472,1.954,5.81,18.7
+320,193,Calgary Flames,Patrick Holland,CA,RW,Tri-City (WHL),5.0,0.0,0.0,0.0,0.0,0.0,59,36,0.6102,0.3729,2.0648,- 4.45,18.98
+321,208,Buffalo Sabres,Riley Boychuk,CA,LW,Portland (WHL),,,,,,,62,17,0.2742,0.1613,1.1304,1.78,18.86
+322,209,Philadelphia Flyers,Brendan Ranford,CA,LW,Kamloops (WHL),1.0,0.0,0.0,0.0,0.0,0.0,72,65,0.9028,0.5,3.1087,8.04,18.66
+323,1,New York Islanders,John Tavares,CA,C,London (OHL),814.0,345.0,424.0,769.0,-30.0,0.9447174447174447,56,104,1.8571,0.7679,4.39,4.93,19.28
+324,3,Colorado Avalanche,Matt Duchene,CA,C,Brampton (OHL),793.0,245.0,344.0,589.0,-90.0,0.742749054224464,57,79,1.386,0.5965,3.5951,15.85,18.96
+325,4,Atlanta Thrashers,Evander Kane,CA,LW,Vancouver (WCHL),713.0,242.0,215.0,457.0,-66.0,0.6409537166900421,61,96,1.5738,0.6721,4.8445,11.62,18.41
+326,5,Los Angeles Kings,Brayden Schenn,CA,C,Brandon (WHL),658.0,179.0,251.0,430.0,-16.0,0.6534954407294833,70,88,1.2571,0.5429,3.7603,4.41,18.36
+327,7,Toronto Maple Leafs,Nazem Kadri,CA,C,London (OHL),612.0,180.0,213.0,393.0,-20.0,0.6421568627450981,56,78,1.3929,0.5357,3.8365,- 5.36,19.24
+328,8,Dallas Stars,Scott Glennie,CA,RW,Brandon (WHL),1.0,0.0,0.0,0.0,0.0,0.0,55,70,1.2727,0.7091,4.2287,12.66,18.86
+329,13,Buffalo Sabres,Zack Kassian,CA,RW,Peterborough (OHL),525.0,82.0,95.0,177.0,-35.0,0.33714285714285713,61,63,1.0328,0.4426,2.7877,- 1.36,18.94
+330,15,Anaheim Ducks,Peter Holland,CA,C,Guelph (OHL),266.0,36.0,49.0,85.0,-38.0,0.31954887218045114,68,67,0.9853,0.5147,2.7491,9.09,18.96
+331,25,Boston Bruins,Jordan Caron,CA,RW,Rimouski (QMJHL),157.0,12.0,16.0,28.0,-9.0,0.17834394904458598,56,67,1.1964,0.3929,2.5411,4.83,19.16
+332,27,Carolina Hurricanes,Philippe Paradis,CA,C,Shawinigan (QMJHL),,,,,,,66,50,0.7576,0.3636,2.2446,- 2.65,19.0
+333,29,Tampa Bay Lightning,Carter Ashton,CA,RW,Lethbridge (WHL),54.0,0.0,3.0,3.0,-12.0,0.05555555555555555,70,50,0.7143,0.4429,2.5629,0.57,18.75
+334,32,Detroit Red Wings,Landon Ferraro,CA,C,Red Deer (WHL),77.0,7.0,5.0,12.0,-9.0,0.15584415584415584,68,55,0.8088,0.4412,2.7622,- 5.81,18.4
+335,35,Los Angeles Kings,Kyle Clifford,CA,LW,Barrie (OHL),676.0,61.0,71.0,132.0,-13.0,0.1952662721893491,60,28,0.4667,0.3167,1.5711,- 2.88,18.97
+336,36,Phoenix Coyotes,Chris Brown,US,C,U.S. National U-18 (USNTDP),23.0,2.0,1.0,3.0,1.0,0.13043478260869565,52,3,0.0577,0.0577,0.3974,- 21.12,18.71
+337,47,New York Rangers,Ethan Werek,CA,C,Kingston (OHL),,,,,,,66,64,0.9697,0.4848,2.6139,3.99,18.57
+338,68,Toronto Maple Leafs,Jamie Devane,CA,LW,Plymouth (OHL),2.0,0.0,0.0,0.0,-1.0,0.0,64,17,0.2656,0.1406,1.0271,- 6.96,18.86
+339,70,Nashville Predators,Taylor Beck,CA,RW,Guelph (OHL),92.0,11.0,12.0,23.0,-9.0,0.25,67,58,0.8657,0.4776,2.2781,2.30,18.63
+340,72,Nashville Predators,Michael Latta,CA,C,Guelph (OHL),113.0,4.0,13.0,17.0,4.0,0.1504424778761062,65,57,0.8769,0.3385,2.3726,- 2.94,18.6
+341,74,Calgary Flames,Ryan Howse,CA,LW,Chilliwack (WHL),,,,,,,61,44,0.7213,0.3607,2.3119,5.86,18.49
+342,75,Detroit Red Wings,Andrej Nestrasil,CZ,RW,Victoriaville (QMJHL),128.0,17.0,31.0,48.0,0.0,0.375,66,57,0.8636,0.5,2.5433,2.31,18.86
+343,82,Edmonton Oilers,Cameron Abney,CA,RW,Everett (WHL),,,,,,,48,4,0.0833,0.0625,0.3652,- 22.11,18.61
+344,84,Los Angeles Kings,Nicolas Deslauriers,CA,D,Rouyn-Noranda (QMJHL),376.0,31.0,31.0,62.0,-60.0,0.16489361702127658,68,30,0.4412,0.1324,0.8532,12.21,18.86
+345,85,Washington Capitals,Cody Eakin,CA,C,Swift Current (WHL),586.0,103.0,134.0,237.0,-1.0,0.4044368600682594,54,48,0.8889,0.5,2.8814,3.52,18.6
+346,92,New York Islanders,Casey Cizikas,CA,C,Mississauga St. Michael's (OHL),534.0,74.0,97.0,171.0,22.0,0.3202247191011236,55,36,0.6545,0.1818,1.9609,- 18.75,18.84
+347,93,Tampa Bay Lightning,Alex Hutchings,CA,LW,Barrie (OHL),,,,,,,63,68,1.0794,0.4762,2.4446,20.51,19.15
+348,96,Los Angeles Kings,Linden Vey,CA,RW,Medicine Hat (WHL),138.0,14.0,30.0,44.0,-19.0,0.3188405797101449,71,72,1.0141,0.4507,3.137,- 0.89,18.46
+349,97,Phoenix Coyotes,Jordan Szwarz,CA,RW,Saginaw (OHL),50.0,4.0,3.0,7.0,-12.0,0.14,67,51,0.7612,0.3881,2.323,9.52,18.63
+350,103,Minnesota Wild,Kris Foucault,CA,LW,Calgary (WHL),1.0,0.0,0.0,0.0,0.0,0.0,26,17,0.6538,0.3846,2.5997,- 6.04,19.05
+351,104,Buffalo Sabres,Marcus Foligno,US,LW,Sudbury (OHL),565.0,75.0,108.0,183.0,-8.0,0.3238938053097345,65,30,0.4615,0.2154,1.8046,- 8.31,18.39
+352,107,Florida Panthers,Garrett Wilson,CA,LW,Owen Sound (OHL),84.0,2.0,6.0,8.0,-4.0,0.09523809523809523,53,35,0.6604,0.4717,2.2556,- 2.22,18.79
+353,119,Chicago Blackhawks,Byron Froese,CA,C,Everett (WHL),110.0,5.0,11.0,16.0,-14.0,0.14545454545454545,72,57,0.7917,0.3194,2.4261,9.04,18.8
+354,129,Dallas Stars,Tomas Vincour,CZ,C,Edmonton ( ),95.0,7.0,10.0,17.0,-9.0,0.17894736842105263,49,36,0.7347,0.2653,2.3504,15.90,19.12
+355,132,Nashville Predators,Gabriel Bourque,CA,LW,Baie-Comeau (QMJHL),413.0,40.0,63.0,103.0,-18.0,0.24939467312348668,60,61,1.0167,0.3833,1.9561,17.94,19.27
+356,139,Montreal Canadiens,Gabriel Dumont,CA,C,Drummondville (QMJHL),90.0,4.0,5.0,9.0,0.0,0.1,51,49,0.9608,0.549,2.8382,2.92,19.24
+357,147,San Jose Sharks,Phil Varone,CA,C,London (OHL),97.0,8.0,9.0,17.0,-20.0,0.17525773195876287,58,52,0.8966,0.4483,3.0511,0.97,19.08
+358,151,Pittsburgh Penguins,Andy Bathgate,CA,C,Belleville (OHL),,,,,,,44,16,0.3636,0.1364,0.8758,- 2.57,18.85
+359,155,Atlanta Thrashers,Jimmy Bubnick,CA,C,Kamloops (WHL),,,,,,,72,57,0.7917,0.4028,2.2598,2.97,18.95
+360,157,Phoenix Coyotes,Evan Bloodoff,CA,LW,Kelowna (WHL),,,,,,,71,21,0.2958,0.2394,1.5125,- 15.13,19.11
+361,175,Washington Capitals,Garrett Mitchell,CA,RW,Regina (WHL),1.0,0.0,0.0,0.0,0.0,0.0,71,15,0.2113,0.1268,0.7759,- 10.85,18.33
+362,176,Boston Bruins,Tyler Randell,CA,RW,Kitchener (OHL),27.0,6.0,0.0,6.0,-2.0,0.2222222222222222,73,37,0.5068,0.274,1.8822,- 9.04,18.54
+363,180,Detroit Red Wings,Mitch Callahan,US,RW,Kelowna (WHL),5.0,0.0,0.0,0.0,0.0,0.0,70,27,0.3857,0.2571,1.6879,0.57,18.37
+364,185,Atlanta Thrashers,Levko Koper,CA,LW,Spokane (WHL),,,,,,,71,59,0.831,0.4085,2.5563,8.35,19.24
+365,187,Vancouver Canucks,Steven Anthony,CA,LW,Saint John (QMJHL),,,,,,,67,48,0.7164,0.3433,1.9147,- 8.46,18.78
+366,205,Washington Capitals,Benjamin Casavant,CA,LW,PEI (QMJHL),,,,,,,68,80,1.1765,0.6471,2.5388,15.24,18.94
+367,209,Chicago Blackhawks,David Gilbert,CA,C,Quebec (QMJHL),,,,,,,67,43,0.6418,0.3433,1.6026,- 6.61,18.89
